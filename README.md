@@ -17,3 +17,5 @@ Clean Architecure
 - [OOP Business Applications: Entity, Boundary, Interactor](http://www.whitewashing.de/2012/08/13/oop_business_applications_entity_boundary_interactor.html)
 - [Adventures with Clean Architecture](http://www.it-zynergy.com/adventures-with-clean-architecture)
 - [Doucheswag](https://github.com/igorw/doucheswag) 
+- [Architecture the Lost Years](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+
