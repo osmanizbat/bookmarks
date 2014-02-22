@@ -18,4 +18,8 @@ Clean Architecure
 - [Adventures with Clean Architecture](http://www.it-zynergy.com/adventures-with-clean-architecture)
 - [Doucheswag](https://github.com/igorw/doucheswag) 
 - [Architecture the Lost Years](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+ 
 
+Domain Driven Design
+----------
+- [DDD: Aggregates and Aggregate Roots](http://devlicio.us/blogs/casey/archive/2009/02/16/ddd-aggregates-and-aggregate-roots.aspx)
