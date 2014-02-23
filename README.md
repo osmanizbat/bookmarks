@@ -18,6 +18,8 @@ Clean Architecure
 - [Adventures with Clean Architecture](http://www.it-zynergy.com/adventures-with-clean-architecture)
 - [Doucheswag](https://github.com/igorw/doucheswag) 
 - [Architecture the Lost Years](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
+- [Clean Coders Community EBI Test Application](https://github.com/sickboy/CCC.TestApp)
+- 
  
 
 Domain Driven Design
