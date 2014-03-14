@@ -24,3 +24,7 @@ Clean Architecure
 Domain Driven Design
 ----------
 - [DDD: Aggregates and Aggregate Roots](http://devlicio.us/blogs/casey/archive/2009/02/16/ddd-aggregates-and-aggregate-roots.aspx)
+
+OSGI
+----------
+- [An example how to run OSGi inside a WAR](https://github.com/splatch/example-aries-tomcat)
