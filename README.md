@@ -11,8 +11,12 @@ Subversion
 - [Packaging, Releasing, and Daily Development](http://producingoss.com/html-chunk/development-cycle.html)
 
 
-Clean Architecure
+Clean Code
 ----------
+- [Evolutionary architecture and emergent design: Composed method and SLAP](http://www.ibm.com/developerworks/java/library/j-eaed4/index.html)
+
+
+####Clean Architecure
 - [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [OOP Business Applications: Entity, Boundary, Interactor](http://www.whitewashing.de/2012/08/13/oop_business_applications_entity_boundary_interactor.html)
 - [Adventures with Clean Architecture](http://www.it-zynergy.com/adventures-with-clean-architecture)
