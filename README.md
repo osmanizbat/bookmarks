@@ -28,6 +28,7 @@ Clean Code
 Domain Driven Design
 ----------
 - [DDD: Aggregates and Aggregate Roots](http://devlicio.us/blogs/casey/archive/2009/02/16/ddd-aggregates-and-aggregate-roots.aspx)
+- [Event Sourcing in practice](http://ookami86.github.io/event-sourcing-in-practice/)
 
 OSGI
 ----------
