@@ -23,6 +23,7 @@ Clean Code
 - [Doucheswag](https://github.com/igorw/doucheswag) 
 - [Architecture the Lost Years](http://confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
 - [Clean Coders Community EBI Test Application](https://github.com/sickboy/CCC.TestApp)
+- [Rediscovering the Joy of Design](http://hawkins.io/2014/01/rediscovering-the-joy-of-design/)
  
 
 Domain Driven Design
